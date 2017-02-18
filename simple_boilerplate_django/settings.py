@@ -25,7 +25,7 @@ SECRET_KEY = 'uxwjp8%^n+yh^xhipmch8ofhu!))l(^z^j70_6y=7x(b@6n$q='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simple-boilerplate.herokuapp.com']
 
 
 # Application definition
