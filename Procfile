@@ -1,0 +1,1 @@
+web: gunicorn simple_boilerplate_django.wsgi --log-file -
