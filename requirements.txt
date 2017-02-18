@@ -9,10 +9,8 @@ gunicorn==19.6.0
 html5lib==0.999
 ipython==5.2.2
 ipython-genutils==0.1.0
-kazam==1.4.5
 lxml==3.3.3
 numpy==1.8.2
-onboard==1.0.1
 requests==2.2.1
 six==1.5.2
 virtualenv==14.0.6
